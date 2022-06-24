@@ -33,6 +33,12 @@ export default {
         text: 'Studies',
         day: 'March 31st at 2.:30pm',
         reminder: false,
+      },
+      {
+        id: 3,
+        text: 'Cricket',
+        day: 'June 330th at 3.:30pm',
+        reminder: true,
       }
     ]
   }
